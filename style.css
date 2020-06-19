@@ -12,11 +12,6 @@ body {
 	background-size: cover;
 }
 
-header {
-	
-	
-}
-
 .maincontainer{
 	display: flex;
 	justify-content: space-between;
@@ -51,13 +46,9 @@ span {
 	transition: all 0.3s ease;
 }
 .contact__link {
-	/*display: flex;
-	justify-content: flex-end;*/
-
 	vertical-align: middle;
     text-align: right;
     margin: 0;
-
 }
 
 .icon {
@@ -87,7 +78,6 @@ h2 {
     justify-content: center;
     align-items: baseline;
     margin: 40px;
-
 }
 
 .profit_1, .profit_2, .profit_3 {
@@ -97,12 +87,10 @@ h2 {
 	line-height: 1.55;
 	vertical-align: top;
 	margin: 40px 20px;
-
 }
  
 .foto {
 	height: 70px;
-
 }
 
 .bal {
@@ -121,6 +109,4 @@ h2 {
 	display: inline-block;
 	border-radius: 5px;
 	padding: 20px 50px;
-	
-
 }
